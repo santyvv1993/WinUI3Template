@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3BmZpz33dM=",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\Sistema_Produccion_Ventas\\SistemaVentas\\SistemaVentas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.web.webview2\\1.0.2151.40\\microsoft.web.webview2.1.0.2151.40.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.2428\\microsoft.windows.sdk.buildtools.10.0.22621.2428.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.231219000\\microsoft.windowsappsdk.1.4.231219000.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.0\\microsoft.netcore.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.0\\microsoft.aspnetcore.app.runtime.win-x64.9.0.0.nupkg.sha512",
+    "C:\\Users\\santy\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.54\\microsoft.windows.sdk.net.ref.10.0.19041.54.nupkg.sha512"
+  ],
+  "logs": []
+}

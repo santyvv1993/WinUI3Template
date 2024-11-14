@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug WinUI3 App (x64)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/SistemaVentas/bin/x64/Debug/net9.0-windows10.0.19041.0/win-x64/SistemaVentas.exe",
+            "args": [],
+            "cwd": "${workspaceFolder}/SistemaVentas",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "env": {
+                "DOTNET_ENVIRONMENT": "Development"
+            }
+        }
+    ]
+}
