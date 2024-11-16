@@ -1,2 +1,5 @@
+# Ignorar la carpeta bin
 SistemaVentas/bin/
+
+# Ignorar la carpeta obj
 SistemaVentas/obj/
