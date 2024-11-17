@@ -6,9 +6,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/SistemaVentas/bin/x64/Debug/net9.0-windows10.0.19041.0/win-x64/SistemaVentas.exe",
+            "program": "${workspaceFolder}/WinUI3Template/bin/x64/Debug/net9.0-windows10.0.19041.0/win-x64/WinUI3Template.exe",
             "args": [],
-            "cwd": "${workspaceFolder}/SistemaVentas",
+            "cwd": "${workspaceFolder}/WinUI3Template",
             "stopAtEntry": false,
             "console": "internalConsole",
             "env": {

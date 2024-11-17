@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}\\SistemaVentas\\SistemaVentas.csproj",
+                "${workspaceFolder}\\WinUI3Template\\WinUI3Template.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
