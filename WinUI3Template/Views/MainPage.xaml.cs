@@ -1,4 +1,4 @@
-namespace SistemaVentas.Views
+namespace WinUI3Template.Views
 {
     /// <summary>
     /// A simple page that can be used on its own or navigated to within a Frame.
