@@ -18,7 +18,7 @@ A minimal, pre-configured template for Windows desktop applications using WinUI 
 
 ## Project Structure
 
-- SistemaVentas/ 
+- WinUI3Template/ 
 - ├── .vscode/ VS Code configuration 
 - │ ├── launch.json Debug configuration 
 - │ └── tasks.json Build tasks 
@@ -26,7 +26,7 @@ A minimal, pre-configured template for Windows desktop applications using WinUI 
 - ├── Views/ XAML pages 
 - │ └── MainPage.xaml Main application page 
 - ├── app.manifest Application manifest 
-- ├── SistemaVentas.csproj Project configuration 
+- ├── WinUI3Template.csproj Project configuration 
 - └── README.md 
 Project documentation
 
